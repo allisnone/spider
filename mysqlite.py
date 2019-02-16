@@ -208,6 +208,6 @@ if __name__ == '__main__':
     table2_data1 = sql3.get_table(table='table2', fields='', where='')
     print('table2_data1=',table2_data1)
     #sql3.drop_table('table1')
-    sql3.backup('new.db')
+    #sql3.backup('new.db')
     sql3.close()
     
