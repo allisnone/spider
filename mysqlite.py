@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #__Author__= allisnone #2019-02-16
 #https://docs.python.org/3/library/sqlite3.html
+#https://www.sqlite.org/index.html
 import sqlite3
 import os
 
